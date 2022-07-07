@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash Godara (@y17godara)
 - 👀 I’m interested in doing Codes / Playing Gaming etc ...
-- 🌱 I’m currently learning Python Adv...and Good in HTML / CSS
+- 🌱 I’m currently learning Java Srpt ...and Good in HTML / CSS , In Future going for React and Db.
 - 💞️ I’m Looking for Friends ...
 - 📫 Instagram  @y_godara_
 
