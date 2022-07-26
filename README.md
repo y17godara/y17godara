@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Yash Godara (@y17godara)
-- 👀 I’m interested in doing Codes / Playing Gaming etc ...
-- 🌱 I’m currently learning Java Srpt ...and Good in HTML / CSS , In Future going for React and Db.
-- 💞️ I’m Looking for Friends ...
-- 📫 Instagram  @y_godara_
+- Hiee, I'm Yash Godara alias Frust.
+- I’m 18.
+- Self Learner.
+- Interest in CS, Full-stack Web Developer..
+
+
+GITHUB-
+https://github.com/y17godara
+
+Email- 
+yash17godara@gmail.com
+
 
 <!---
 y17godara/y17godara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
