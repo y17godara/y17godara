@@ -1,7 +1,7 @@
 - Hiee, I'm Yash Godara alias Frust.
 - I’m 18.
 - Self Learner.
-- Interest in CS, Full-stack Web Developer..
+- Interest in CS,Learning Java and Full-stack Web Developer..
 
 
 GITHUB-
