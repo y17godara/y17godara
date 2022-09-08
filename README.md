@@ -4,8 +4,7 @@
 - Interest in CS,Learning Java and Full-stack Web Developer..
 
 
-GITHUB-
-https://github.com/y17godara
+
 
 Email- 
 yash17godara@gmail.com
