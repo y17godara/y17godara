@@ -1,4 +1,13 @@
-- Hiee, I'm Yash Godara alias Frust.
+![tital](https://media.discordapp.net/attachments/935189135155662878/1018191412854018058/Purple_Orange_Playful__Celebratory_Drive-by_Graduation_Banner.png?width=1402&height=701)
+
+
+<h1 align="center">
+  WELCOME EVERYONE
+  <br><br>
+   I'm <a href="https://www.linkedin.com/in/yash-godara-a91442246/" target="_blank" rel="noreferrer">Yash Godara</a>
+</h1>
+
+
 - I’m 18.
 - Self Learner.
 - Interest in CS,Learning Java and Full-stack Web Developer..
