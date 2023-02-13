@@ -8,12 +8,12 @@
 </p>
 
 
-## About me
+## 🔖About me
 Hello, my name is [Yash Godara](https://github.com/y17godara) and I am from New Delhi, India. I am currently studying and working in the field of development and design. Every day I enjoy learning something new, and I have a good understanding of UI Design, Web Development, and Python, C Programming. 
 
 Also, on occasion, I love to blog and create documentation related to my studies that I use as notes.
 
-## I am Working with
+## 🧾I am Working with
 - Designing
 - Writing
 - Programming
@@ -21,7 +21,7 @@ Also, on occasion, I love to blog and create documentation related to my studies
 - Open Source
 
 
-## Skills & Experiences
+## 🖥️Skills & Experiences
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,html,css,js,figma,git,github,vscode,powershell,stackoverflow" />
@@ -33,7 +33,7 @@ Also, on occasion, I love to blog and create documentation related to my studies
 </p>
 
 
-## Get in touch :coffee:
+## ☕Get in touch
 - Your future buddy to discuss on [Discord : !Yash#8273](https://discord.com/).
 - Can Offically email at [yash17godara@gmail.com](https://mail.google.com/mail/u/0/).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/yash-godara-a91442246/).
