@@ -1,9 +1,5 @@
 # Hey there :wave:
-
-
 <img src="banner.jpg" alt="Hello world">
-
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/y17godara/count.svg" />
@@ -11,23 +7,31 @@
 
 
 ## About me
-
 Hello, my name is [Yash Godara](https://github.com/y17godara) and I am from New Delhi, India. I am currently studying and working in the field of development and design. Every day I enjoy learning something new, and I have a good understanding of UI Design, Web Development, and Python, C Programming. 
 
 Also, on occasion, I love to blog and create documentation related to my studies that I use as notes.
 
-
 ## I am Working with
-
 - Designing
 - Writing
 - Programming
 - Editing
 - Open Source
 
+## Skills & Experiences
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,js,figma,git,github,vscode,powershell,stackoverflow" />
+  </a>
+  <p>Other</p>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,blender," />
+  </a>
+</p>
+
+
 
 ## Get in touch :coffee:
-
 - Your future buddy to discuss on [Discord : !Yash#8273](https://discord.com/).
 - Can Offically email at [yash17godara@gmail.com](https://mail.google.com/mail/u/0/).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/yash-godara-a91442246/).
