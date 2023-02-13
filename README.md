@@ -1,12 +1,12 @@
 # Hey there :wave:
 
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="banner.jpg" alt="Hello world">
 
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/y17godara/count.svg" />
 </p>
 
 
