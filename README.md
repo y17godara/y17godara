@@ -1,7 +1,7 @@
 # Hey there :wave:
 
 
-<img src="banner.jpg" alt="Hello world">
+<img src="banner.jpg" alt="Welcome_Banner">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/y17godara/count.svg" />
@@ -15,13 +15,15 @@ Also, on occasion, I love to blog and create documentation related to my studies
 
 <img align="right" alt="coding" width="400" src="image.gif">
 
-## 🧾I am Working with
+
+## ⚙️I am Working with
 - Designing
 - Writing
 - Programming
 - Editing
 - Open Source
 
+<br><br><hr>
 
 ## 🖥️Skills & Experiences
 <p align="left">
@@ -34,6 +36,8 @@ Also, on occasion, I love to blog and create documentation related to my studies
   </a>
 </p>
 
+<br><hr>
+
 
 ## ☕Get in touch
 - Your future buddy to discuss on [Discord : !Yash#8273](https://discord.com/).
@@ -41,6 +45,16 @@ Also, on occasion, I love to blog and create documentation related to my studies
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/yash-godara-a91442246/).
 - Some of my Profiles: [Leetcode](https://leetcode.com/y17godara/), [Geeks for Greeks](https://auth.geeksforgeeks.org/user/yashgodara), [Stackoverflow](https://stackoverflow.com/users/17114824/yashgodara) and [Google Development](https://g.dev/YashGodara).
 - And of course GitHub you're already on (Recursion).
+<p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p>
+
+<br><br><hr>
+
+## 🔎Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=y17godara&show_icons=true&locale=en&layout=compact" alt="stats_1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y17godara&show_icons=true&locale=en" alt="stats_2" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y17godara&" alt="stats_3" /></p>
 
 
 <p align="right"><b>Last Updated : 14|Feb|2023</b></p>
