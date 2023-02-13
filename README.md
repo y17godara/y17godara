@@ -13,6 +13,8 @@ Hello, my name is [Yash Godara](https://github.com/y17godara) and I am from New 
 
 Also, on occasion, I love to blog and create documentation related to my studies that I use as notes.
 
+<img align="right" alt="coding" width="400" src="image.gif">
+
 ## 🧾I am Working with
 - Designing
 - Writing
@@ -39,8 +41,6 @@ Also, on occasion, I love to blog and create documentation related to my studies
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/yash-godara-a91442246/).
 - Some of my Profiles: [Leetcode](https://leetcode.com/y17godara/), [Geeks for Greeks](https://auth.geeksforgeeks.org/user/yashgodara), [Stackoverflow](https://stackoverflow.com/users/17114824/yashgodara) and [Google Development](https://g.dev/YashGodara).
 - And of course GitHub you're already on (Recursion).
-
-
 
 
 <p align="right"><b>Last Updated : 14|Feb|2023</b></p>
