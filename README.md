@@ -29,6 +29,7 @@ Also, on occasion, I love to blog and create documentation related to my studies
 ## Get in touch :coffee:
 
 - Your future buddy to discuss on [Discord : !Yash#8273](https://discord.com/).
+- Can Offically email at [yash17godara@gmail.com](https://mail.google.com/mail/u/0/).
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/yash-godara-a91442246/).
 - Some of my Profiles: [Leetcode](https://leetcode.com/y17godara/), [Geeks for Greeks](https://auth.geeksforgeeks.org/user/yashgodara), [Stackoverflow](https://stackoverflow.com/users/17114824/yashgodara) and [Google Development](https://g.dev/YashGodara).
 - And of course GitHub you're already on (Recursion).
