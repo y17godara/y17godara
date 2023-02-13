@@ -12,7 +12,6 @@
 Hello, my name is [Yash Godara](https://github.com/y17godara) and I am from New Delhi, India. I am currently studying and working in the field of development and design. Every day I enjoy learning something new, and I have a good understanding of UI Design, Web Development, and Python, C Programming. 
 
 Also, on occasion, I love to blog and create documentation related to my studies that I use as notes.
-
 <img align="right" alt="coding" width="400" src="image.gif">
 
 
@@ -36,8 +35,7 @@ Also, on occasion, I love to blog and create documentation related to my studies
   </a>
 </p>
 
-<br><hr>
-
+<hr>
 
 ## ☕Get in touch
 - Your future buddy to discuss on [Discord : !Yash#8273](https://discord.com/).
@@ -50,11 +48,10 @@ Also, on occasion, I love to blog and create documentation related to my studies
 <br><br><hr>
 
 ## 🔎Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=y17godara&show_icons=true&locale=en&layout=compact" alt="stats_1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=y17godara&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="y17godara" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y17godara&show_icons=true&locale=en&theme=tokyonight" alt="y17godara" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y17godara&&theme=tokyonight" alt="y17godara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=y17godara&show_icons=true&locale=en" alt="stats_2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y17godara&" alt="stats_3" /></p>
-
+<br><hr>
 
 <p align="right"><b>Last Updated : 14|Feb|2023</b></p>
