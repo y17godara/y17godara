@@ -27,7 +27,7 @@ Also, on occasion, I love to blog and create documentation related to my studies
 ## 🖥️Skills & Experiences
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,js,figma,git,github,vscode,powershell,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,js,java,figma,git,github,vscode,powershell,stackoverflow" />
   </a>
   <p>Other</p>
     <a href="https://skillicons.dev">
