@@ -43,7 +43,7 @@ Also, on occasion, I love to blog and create documentation related to my studies
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/yash-godara-a91442246/).
 - Some of my Profiles: [Leetcode](https://leetcode.com/y17godara/), [Geeks for Greeks](https://auth.geeksforgeeks.org/user/yashgodara), [Stackoverflow](https://stackoverflow.com/users/17114824/yashgodara) and [Google Development](https://g.dev/YashGodara).
 - And of course GitHub you're already on (Recursion).
-<p><a href="#"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p>
+<p><a href="https://www.buymeacoffee.com/yashgodaa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p>
 
 <br><br><hr>
 
