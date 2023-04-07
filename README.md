@@ -35,6 +35,15 @@ Also, on occasion, I love to blog and create documentation related to my studies
 
 <hr>
 
+## 🖥️Currently Learning/Working
+<p align="left">
+  <h2>MERN Stack</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  </a>
+
+<hr>
+
 ## ☕Get in touch
 - Your future buddy to discuss on [Discord : !Yash#8273](https://discord.com/).
 - Can Offically email at **yash17godara@gmail.com**.
@@ -52,4 +61,4 @@ Also, on occasion, I love to blog and create documentation related to my studies
 
 <br><hr>
 
-<p align="right"><b>Last Updated : 14|Feb|2023</b></p>
+<p align="right"><b>Last Updated : 07|April|2023</b></p>
