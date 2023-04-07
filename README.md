@@ -1,7 +1,5 @@
 # Hey there :wave:
 
-
-<img src="banner.jpg" alt="Welcome_Banner">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/y17godara/count.svg" />
