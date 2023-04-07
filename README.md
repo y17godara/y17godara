@@ -36,10 +36,11 @@ Also, on occasion, I love to blog and create documentation related to my studies
 <hr>
 
 ## 🖥️Currently Learning/Working
+<p>Also,I would love to Collab on any type of Projects. Just Contact me via Discord or Email </p>
 <p align="left">
   <h2>MERN Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts" />
   </a>
 
 <hr>
