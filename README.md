@@ -40,7 +40,7 @@ Also, on occasion, I love to blog and create documentation related to my studies
 <p align="left">
   <h2>MERN Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,firebase" />
   </a>
 
 <hr>
