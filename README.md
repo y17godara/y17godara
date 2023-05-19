@@ -1,9 +1,7 @@
-# Hey there :wave:
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/y17godara/count.svg" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=y17godara&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+# Hey there :wave:
 
 
 ## 🔖About me
@@ -19,6 +17,7 @@ Also, on occasion, I love to blog and create documentation related to my studies
 - Programming
 - Editing
 - Open Source
+
 
 <br><br><hr>
 
