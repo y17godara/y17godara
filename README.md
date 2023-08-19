@@ -11,7 +11,7 @@ Also, on occasion, I love to blog and create documentation related to my studies
 <img align="right" alt="coding" width="400" src="image.gif">
 
 
-## ⚙️I am Working with
+## ⚙️I am Working on
 - Designing
 - Writing
 - Programming
