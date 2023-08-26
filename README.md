@@ -24,23 +24,13 @@ Also, on occasion, I love to blog and create documentation related to my studies
 ## 🖥️Skills & Experiences
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,js,java,figma,git,github,vscode,powershell,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=nextjs,c,html,css,js,figma,git,github,vscode,powershell,stackoverflow,mongodb,express,react,nodejs,ts,firebase,blender" />
   </a>
   <p>Other</p>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,blender," />
+    <img src="https://skillicons.dev/icons?i=mysql,," />
   </a>
 </p>
-
-<hr>
-
-## 🖥️Currently Learning/Working
-<p>Also,I would love to Collab on any type of Projects. Just Contact me via Discord or Email </p>
-<p align="left">
-  <h2>MERN Stack</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,ts,firebase" />
-  </a>
 
 <hr>
 
@@ -61,4 +51,4 @@ Also, on occasion, I love to blog and create documentation related to my studies
 
 <br><hr>
 
-<p align="right"><b>Last Updated : 07|April|2023</b></p>
+<p align="right"><b>Last Updated : 26|Aug|2023</b></p>
