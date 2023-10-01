@@ -5,7 +5,9 @@
 
 
 ## 🔖About me
-Hello, my name is [Yash Godara](https://github.com/y17godara) and I am from New Delhi, India. I am currently studying and working in the field of development and design. Every day I enjoy learning something new, and I have a good understanding of UI Design, Web Development, and Python, C Programming. 
+Hello, my name is [Yash Godara](https://github.com/y17godara) and I am from New Delhi, India. I am currently studying and working in the field of development and design. Every day I enjoy learning something new, and I have a good understanding of UI Design, Web Development, and Programming.
+</br></br>
+Personal Website [Project](https://www.yashgodara.me)
 
 Also, on occasion, I love to blog and create documentation related to my studies that I use as notes.
 <img align="right" alt="coding" width="400" src="image.gif">
@@ -35,14 +37,12 @@ Also, on occasion, I love to blog and create documentation related to my studies
 <hr>
 
 ## ☕Get in touch
-- Your future buddy to discuss on [Discord : !Yash#8273](https://discord.com/).
-- Can Offically email at **yash17godara@gmail.com**.
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/yash-godara-a91442246/).
-- Some of my Profiles: [Leetcode](https://leetcode.com/y17godara/), [Geeks for Greeks](https://auth.geeksforgeeks.org/user/yashgodara), [Stackoverflow](https://stackoverflow.com/users/17114824/yashgodara) and [Google Development](https://g.dev/YashGodara).
+- Can email me **yash17godara@gmail.com**.
+- LinkedIn [Profile](https://www.linkedin.com/in/y17godara).
+- Twitter / X [Profile](https://www.twitter.com/y17godara).
+- Some of my Profiles: [Leetcode](https://leetcode.com/y17godara/), [Stackoverflow](https://stackoverflow.com/users/17114824/yashgodara).
 - And of course GitHub you're already on (Recursion).
-<p><a href="https://www.buymeacoffee.com/yashgodaa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p>
-
-<br><br><hr>
+<br><br>
 
 ## 🔎Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=y17godara&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="y17godara" /></p>
@@ -51,4 +51,4 @@ Also, on occasion, I love to blog and create documentation related to my studies
 
 <br><hr>
 
-<p align="right"><b>Last Updated : 26|Aug|2023</b></p>
+<p align="right"><b>Last Updated : 1|Oct|2023</b></p>
