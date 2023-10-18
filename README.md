@@ -5,7 +5,7 @@
 ## Hey👋 
 
 - 🏢 Open for Intership Offers (Resume @LinkedIn)
-- Feel free to Checkout my [Portfolio](https://brianruizy.com/) website!
+- Feel free to Checkout my [Portfolio](https://yashgodara.me) website!
 - 🧰 I build with: `React.js` `Next.js`, `JavaScript`, `Typescript`,  `Node.js`, `Tailwind.css`, `MongoDB`, `PostgreSQL`...
 - 📫 Reach out to me: yash17godara@gmail.com
 - ⚡ I enjoy traveling, reading, listening music, and lifting weights :)
