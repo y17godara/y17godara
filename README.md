@@ -8,7 +8,7 @@
 - Feel free to Checkout my [Portfolio](https://yashgodara.me) website!
 - 🧰 I build with: `React.js` `Next.js`, `JavaScript`, `Typescript`,  `Node.js`, `Tailwind.css`, `MongoDB`, `PostgreSQL`...
 - 📫 Reach out to me: yash17godara@gmail.com
-- ⚡ I enjoy traveling, reading, listening music, and lifting weights :)
+- ⚡ I enjoy traveling, reading, listening music, and spending time with family :)
 
 ## ☕Get in touch
 
