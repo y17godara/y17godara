@@ -6,7 +6,7 @@
 
 - 🏢 Open for Intership Offers (Resume @LinkedIn)
 - Feel free to Checkout my [Portfolio](https://y-g.tech) website!
-- 🧰 I build with: `React.js` `Next.js`, `JavaScript`, `Typescript`,  `Node.js`, `Tailwind.css`, `MongoDB`, `PostgreSQL`...
+- 🧰 I build with: `React.js` `Next.js`, `JavaScript`, `Typescript`, `Node.js`, `Tailwind.css`, `MongoDB`, `PostgreSQL`...
 - 📫 Reach out to me: yash17godara@gmail.com
 - ⚡ I enjoy traveling, reading, listening music, and spending time with family :)
 
