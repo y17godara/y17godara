@@ -6,7 +6,7 @@
 
 - 🏢 Open for Offers (Resume @LinkedIn)
 - Feel free to Checkout my [Portfolio](https://y-g.tech) website!
-- 🧰 I build with: `React.js` `Next.js`, `JavaScript`, `Typescript`, `Node.js`, `Prisma ORM`, `MySQL` `Tailwind.css`, `MongoDB`, `PostgreSQL`...
+- 🧰 I build with: `React.js` `Next.js`, `JavaScript`, `Typescript`, `Node.js`, `Prisma ORM`, `MySQL` `Tailwind.css`, `MongoDB`, `PostgreSQL`, `SEO`, `Redis`, `Rest API`, `CRM`,...
 - 📫 Reach out to me: yash17godara@gmail.com
 - ⚡ I enjoy traveling, reading, listening music, and spending time with family :)
 
