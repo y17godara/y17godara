@@ -20,7 +20,7 @@
 
 
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>Github Stats⚡</summary>
 </br></br>
   <a href="#"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=y17godara&&theme=tokyonight" alt="y17godara" /></a>
 </br></br>
