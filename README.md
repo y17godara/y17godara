@@ -4,7 +4,7 @@
 
 ## Hey👋 
 
-- 🏢 Open for Offers (Resume @LinkedIn)
+- 🏢 Open for Offers [Resume](https://docs.google.com/document/d/1sUTNAoeqXXwJ_OUXztWzqUDSunaUvqoQXNWDXgsqwv8/edit?usp=sharing)
 - Feel free to Checkout my [Portfolio](https://y-g.tech) website!
 - 🧰 I build with: `React.js` `Next.js`, `JavaScript`, `Typescript`, `Node.js`, `Prisma ORM`, `MySQL` `Tailwind.css`, `MongoDB`, `PostgreSQL`, `SEO`, `Redis`, `Rest API`, `CRM`,...
 - 📫 Reach out to me: yash17godara@gmail.com
