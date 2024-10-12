@@ -9,6 +9,7 @@
 - 🧰 I build with: `React.js` `Next.js`, `JavaScript`, `Typescript`, `Node.js`, `Prisma ORM`, `MySQL` `Tailwind.css`, `MongoDB`, `PostgreSQL`, `SEO`, `Redis`, `Rest API`, `CRM`,...
 - 📫 Reach out to me: yash17godara@gmail.com
 - ⚡ I enjoy traveling, reading, listening music, and spending time with family :)
+- ☕ "Best way to learn is to build shit" - [TheoBr](https://www.twitter.com/t3dotgg)
 
 ## ☕Get in touch
 
