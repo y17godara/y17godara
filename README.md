@@ -16,7 +16,7 @@
 [<img src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/y17godara)
 [<img src="https://skillicons.dev/icons?i=twitter"/>](https://www.twitter.com/y17godara)
 [<img src="https://skillicons.dev/icons?i=github"/>](https://github.com/y17godara)
-[<img src="https://skillicons.dev/icons?i=discord"/>](https://discord.gg/FahhNxkaue)
+[<img src="https://skillicons.dev/icons?i=discord"/>](https://discord.gg/63t4kNS53A)
 
 
 
