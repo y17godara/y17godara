@@ -18,8 +18,6 @@
 [<img src="https://skillicons.dev/icons?i=github"/>](https://github.com/y17godara)
 [<img src="https://skillicons.dev/icons?i=discord"/>](https://discord.gg/63t4kNS53A)
 
-
-
 <details>
   <summary>Github Stats⚡</summary>
 </br></br>
